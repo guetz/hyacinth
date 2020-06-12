@@ -1,2 +1,2 @@
-# <img src="hyacinth.png" alt="hyacinth" width="30"/>hyacinth<img src="hyacinth.png" alt="hyacinth" width="30"/>
+# hyac<em><img src="hyacinth.png" alt="hyacinth" width="30"/></em>nth
 
